@@ -41,7 +41,7 @@ lib/
 1. Ensure Flutter **3.24.5** and Dart **3.5.4** are installed.
 2. Clone this repository:
    ```bash
-  [ git clone https://github.com/dinesh-dot-com/DataTerrainProject.git](https://github.com/dinesh-dot-com/student_management_app.git)
+   [ git clone https://github.com/dinesh-dot-com/DataTerrainProject.git](https://github.com/dinesh-dot-com/student_management_app.git)
 
    cd student_management_app
 
